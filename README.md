@@ -4,3 +4,5 @@ Combos of fourier, decay, and other math to preprocess mouse movements for use i
 v0.1 displays in realtime a 300x300 grid of horizontal is frequency and vertical is decay, and big numbers are wrapped, though in future versions I hope to norm it better and just provide the wrapping as an option.
 
 <img src=https://github.com/benrayfield/MouseFeatureVectors/blob/master/data/website/pics/MouseFeatureVectors0.1.png>
+
+Notice the oval in 2d, proving that the 2d between frequency and decay is an important branch of fourier research instead of just a hack.
